@@ -1,0 +1,13 @@
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.modal-text {
+  font-weight: 500;
+}
+.modal-input {
+  padding: 5px 1rem;
+  border-radius: 5px;
+  border: 2px solid rgba(148, 146, 146, 0.705);
+}

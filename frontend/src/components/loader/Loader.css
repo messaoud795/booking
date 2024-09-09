@@ -1,0 +1,12 @@
+.loader {
+  margin-top: 20vh;
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.spinner {
+  height: 10rem !important;
+  width: 10rem !important;
+  margin: 0 auto;
+}
